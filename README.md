@@ -7,4 +7,4 @@ day of the week and determine the best and worst-selling product along with thei
 Data collection and preparation data transformation exploratory data analysis(EDA) data visualization
 
 # Libraries
-Pandas Matplotlin Numpy
+Pandas Matplotlib Numpy
